@@ -14,4 +14,8 @@ PCB (Printed Circuit Board) designing is the process of creating the layout and 
 9. **Manufacturing**: Once the prototype is successfully tested, you can proceed with the full-scale production. The Gerber files are sent to a PCB manufacturer, where the PCB is fabricated according to the design specifications.
 10. **Assembly**: After the PCBs are fabricated, electronic components are soldered onto the board through a process called PCB assembly.
 11. **Testing**: The final step involves testing the assembled PCB to ensure that it functions correctly and meets the desired specifications.
+
 It's worth noting that PCB designing requires careful consideration of factors like signal integrity, power distribution, thermal management, and manufacturability. Using appropriate PCB design software can significantly streamline the design process and help create efficient and reliable PCBs for electronic devices.
+
+# **Note:**
+All the Gerber files required to fabricate PCB for Light Sensitive Trigger are generated using EAGLE software and it has been uploaded in this repository
